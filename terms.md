@@ -1,99 +1,117 @@
 # Términos y Condiciones de Uso — Atrio
 
-**Última actualización:** 30 de abril de 2026
+**Última actualización: 3 de junio de 2026**
 
-Bienvenido(a) a Atrio. Estos Términos y Condiciones ("Términos") regulan el acceso y uso de la aplicación móvil y los servicios asociados ("Servicio") operados por **Atrio Company** ("Atrio", "nosotros"). Al crear una cuenta o utilizar el Servicio, aceptas estos Términos en su totalidad. Si no estás de acuerdo, no debes utilizar el Servicio.
-
----
-
-## 1. Definiciones
-
-- **Usuario / Tú:** persona que utiliza Atrio, ya sea como Anfitrión (Host) o como Huésped (Guest).
-- **Anfitrión:** usuario que publica Espacios, Experiencias o Servicios en Atrio.
-- **Huésped:** usuario que reserva o contrata Espacios, Experiencias o Servicios.
-- **Listado:** publicación creada por un Anfitrión.
-- **Reserva:** acuerdo entre Anfitrión y Huésped formalizado a través de Atrio.
-
-## 2. Naturaleza del Servicio
-
-Atrio es una **plataforma intermediaria** que conecta Anfitriones con Huéspedes. Atrio **no es** propietaria de los Listados ni proveedora directa de los servicios ofrecidos. La relación contractual sobre cada Reserva se establece entre el Anfitrión y el Huésped.
-
-## 3. Registro y cuenta
-
-Para utilizar Atrio debes:
-
-- Tener al menos 18 años o la mayoría de edad legal en tu jurisdicción.
-- Proporcionar información veraz, actualizada y completa.
-- Mantener la confidencialidad de tu contraseña.
-- Notificarnos de inmediato cualquier uso no autorizado de tu cuenta.
-
-Atrio puede suspender o cancelar cuentas que incumplan estos Términos.
-
-## 4. Conducta del Usuario
-
-Te comprometes a no:
-
-- Publicar contenido falso, engañoso, ilegal, obsceno, difamatorio o que infrinja derechos de terceros.
-- Utilizar el Servicio para fines fraudulentos o suplantar identidades.
-- Eludir comisiones ni redirigir reservas fuera de la plataforma.
-- Realizar ingeniería inversa, scraping no autorizado o ataques al Servicio.
-
-## 5. Reservas y pagos
-
-- Los pagos se procesan a través de **Mercado Pago** y otros proveedores autorizados.
-- Atrio retiene una comisión de servicio sobre cada Reserva. La comisión actual es del **1%** durante las primeras cinco (5) Reservas del Anfitrión y del **7%** posteriormente, con un tope de CLP $90.000 por Reserva.
-- El Huésped paga el monto total al confirmar; el Anfitrión recibe los fondos según la política de pagos vigente.
-- Las cancelaciones se rigen por la política específica de cada Listado.
-
-## 6. Cancelaciones y reembolsos
-
-- Cada Listado puede definir su política de cancelación (flexible, moderada o estricta).
-- Atrio puede retener tarifas de servicio no reembolsables.
-- Los reembolsos se procesan al método de pago original cuando corresponda.
-
-## 7. Verificación de identidad (KYC)
-
-Atrio puede solicitar documentación adicional (cédula, pasaporte, selfie de verificación) para Anfitriones y, en algunos casos, Huéspedes. Esta información se trata según nuestra Política de Privacidad y se almacena cifrada.
-
-## 8. Propiedad intelectual
-
-- El contenido publicado por los Anfitriones les pertenece, pero conceden a Atrio una licencia mundial, no exclusiva y libre de regalías para mostrar, distribuir y promover dicho contenido dentro del Servicio.
-- La marca "Atrio", el logo y la interfaz de la aplicación son propiedad de Atrio Company.
-
-## 9. Limitación de responsabilidad
-
-Atrio se ofrece "tal cual" sin garantías de disponibilidad continua. En la máxima medida permitida por la ley, Atrio no será responsable por:
-
-- Daños indirectos, incidentales o consecuentes.
-- Comportamientos de Anfitriones o Huéspedes ajenos a la plataforma.
-- Pérdida de datos o lucro cesante.
-
-La responsabilidad total de Atrio frente a un Usuario no excederá lo pagado por dicho Usuario en los 12 meses anteriores al hecho que origina la responsabilidad.
-
-## 10. Suspensión y terminación
-
-Atrio puede suspender o terminar tu cuenta si:
-
-- Incumples estos Términos.
-- Tu actividad genera quejas reiteradas.
-- Lo exige una autoridad competente.
-
-Tú puedes cerrar tu cuenta en cualquier momento desde "Editar Perfil → Eliminar cuenta".
-
-## 11. Modificaciones
-
-Podemos modificar estos Términos en cualquier momento. Los cambios entrarán en vigor al publicarse en este documento. El uso continuado del Servicio implica la aceptación de los nuevos Términos.
-
-## 12. Ley aplicable y jurisdicción
-
-Estos Términos se rigen por las leyes de la República de Chile. Cualquier controversia será resuelta por los tribunales ordinarios de Santiago, sin perjuicio de los derechos del consumidor reconocidos por ley.
-
-## 13. Contacto
-
-Para consultas sobre estos Términos:
-
-📧 **contacto@atriocompany.cloud**
+Estos términos regulan la relación entre tú y Atrio Company SpA cuando usas la app como anfitrión o como huésped: cómo funcionan las publicaciones, las reservas, los pagos a través de Mercado Pago, las comisiones de servicio, las cancelaciones y tus derechos como consumidor en Chile. Léelos con calma antes de reservar o publicar.
 
 ---
 
-© 2026 Atrio Company. Todos los derechos reservados.
+## Aceptación de los Términos
+
+Al crear una cuenta o usar la aplicación Atrio ("Atrio", "la Plataforma" o "la App"), operada por Atrio Company SpA ("nosotros"), declaras que tienes al menos 18 años y aceptas estos Términos y Condiciones de Uso y nuestra Política de Privacidad. Si no estás de acuerdo, no debes usar la Plataforma. Estos términos constituyen un contrato legalmente vinculante entre tú y Atrio Company SpA, regido por las leyes de la República de Chile.
+
+## Qué es Atrio y Cuál es Nuestro Rol
+
+Atrio es un marketplace que conecta a personas que ofrecen espacios, experiencias y servicios ("Anfitriones") con personas que desean reservarlos ("Huéspedes"). Atrio no es propietario, organizador ni proveedor de las publicaciones: solo facilita la tecnología para publicar, descubrir, reservar y pagar. El contrato de cada reserva se celebra de forma directa y exclusiva entre el Anfitrión y el Huésped. Atrio no es parte de esa relación, salvo en su rol de facilitador de pagos y de cobro de comisiones de servicio.
+
+## Registro, Cuenta y Verificación de Identidad
+
+Para reservar o publicar debes registrarte con un correo válido y confirmarlo mediante el código que te enviamos. Eres responsable de la veracidad de tus datos, de la confidencialidad de tu contraseña y de toda actividad realizada bajo tu cuenta. Para mayor seguridad, Atrio puede solicitar la verificación de identidad (KYC) mediante un documento oficial. La verificación reduce el riesgo de fraude, pero no garantiza la conducta de ningún usuario. Debes avisarnos de inmediato ante cualquier uso no autorizado de tu cuenta.
+
+## Roles: Huésped y Anfitrión
+
+Puedes usar Atrio en dos modos:
+
+• Modo Huésped: explorar, reservar y pagar espacios, experiencias y servicios.
+
+• Modo Anfitrión: publicar y administrar tus ofertas, fijar precios y disponibilidad, recibir reservas y cobrar tus ingresos.
+
+Un mismo usuario puede alternar entre ambos modos. Como Anfitrión, declaras contar con todas las facultades, permisos y autorizaciones necesarias para ofrecer aquello que publicas.
+
+## Publicaciones y Obligaciones del Anfitrión
+
+Como Anfitrión te comprometes a:
+
+• Describir con exactitud tu espacio, experiencia o servicio: fotos reales, ubicación, capacidad, normas, precio y todos los cargos aplicables.
+
+• Cumplir las leyes, permisos, patentes, reglamentos de copropiedad y obligaciones tributarias que correspondan a tu actividad.
+
+• Mantener actualizada tu disponibilidad y honrar las reservas confirmadas.
+
+• No incluir cargos ocultos ni cobrar fuera de la Plataforma.
+
+Atrio puede revisar, editar o despublicar anuncios que incumplan estos términos o la ley.
+
+## Reservas y Formación del Contrato
+
+Cuando un Huésped confirma y paga una reserva, se forma un contrato directo con el Anfitrión según las condiciones publicadas: modo de cobro (por noche, día, hora/bloque o persona), fechas, horario, capacidad y normas. Algunas publicaciones ofrecen Reserva Instantánea; otras requieren la aprobación del Anfitrión. El Huésped debe usar el espacio, experiencia o servicio conforme a las normas publicadas y a la ley.
+
+## Precios, Comisiones de Servicio y Pagos
+
+Los precios son fijados por cada Anfitrión en pesos chilenos (CLP). Los pagos se procesan a través de Mercado Pago; al pagar aceptas también las condiciones de ese proveedor. Atrio cobra una comisión de servicio al Huésped, que se suma al precio del Anfitrión y se muestra de forma transparente antes de confirmar: 5% en tus primeras 5 reservas y 9% en adelante, con un mínimo de $1.490 CLP por reserva. El Anfitrión no paga comisión: recibe el 100% del precio que publicó. Atrio puede modificar las comisiones avisando con anticipación; los cambios no afectan reservas ya confirmadas.
+
+## Pagos y Desembolsos a Anfitriones
+
+El pago del Huésped se procesa al confirmar la reserva. El desembolso al Anfitrión se realiza a través de Mercado Pago, a la cuenta que haya vinculado, conforme a los plazos y condiciones de dicho proveedor y, cuando corresponda, una vez transcurrido el período de protección de la reserva. El Anfitrión es responsable de mantener correctos sus datos de cobro. Atrio puede retener o revertir pagos en casos de fraude, contracargo, disputa o incumplimiento.
+
+## Cancelaciones y Reembolsos
+
+Cada publicación tiene una política de cancelación elegida por el Anfitrión:
+
+• Flexible: reembolso completo hasta 24 horas antes del inicio.
+
+• Moderada: reembolso completo hasta 5 días antes.
+
+• Estricta: 50% de reembolso hasta 7 días antes; sin reembolso después.
+
+La comisión de servicio se reembolsa cuando la cancelación da derecho a reembolso total. Los reembolsos se procesan por el mismo medio de pago, normalmente dentro de 5 a 10 días hábiles según Mercado Pago. Si un Anfitrión cancela una reserva confirmada, el Huésped recibe un reembolso completo y Atrio puede aplicar sanciones al Anfitrión. Todo lo anterior es sin perjuicio de los derechos que la Ley N° 19.496 otorga a los consumidores.
+
+## Conducta y Responsabilidad del Usuario
+
+Todos los usuarios se comprometen a:
+
+• No usar la Plataforma para fines ilegales, fraudulentos o no autorizados.
+
+• No publicar contenido falso, engañoso, ofensivo o que infrinja derechos de terceros.
+
+• Tratar con respeto a los demás y no incurrir en discriminación ni acoso.
+
+• No manipular reseñas, precios ni el sistema de búsqueda.
+
+• No eludir la Plataforma para evitar el pago de comisiones.
+
+Cada usuario asume los riesgos propios de las actividades que ofrece o reserva y responde por los daños que cause.
+
+## Reseñas y Calificaciones
+
+Tras una reserva, Huéspedes y Anfitriones pueden calificarse mutuamente y dejar reseñas. Las reseñas deben ser honestas, basarse en una experiencia real y ser respetuosas. Atrio no verifica cada reseña, pero puede moderar o eliminar contenido que infrinja estos términos. Está prohibido publicar reseñas falsas, intercambiar reseñas por beneficios o presionar a otra persona para modificarlas.
+
+## Contenido y Propiedad Intelectual
+
+El contenido que publicas (fotos, textos y descripciones) sigue siendo tuyo, pero otorgas a Atrio una licencia mundial, no exclusiva y gratuita para mostrarlo, reproducirlo y promocionarlo dentro de la Plataforma y en acciones de marketing relacionadas. Garantizas que tienes derecho a entregar ese contenido. La marca Atrio, su logotipo, diseño, software y demás elementos de la Plataforma son propiedad de Atrio Company SpA y están protegidos por la ley; no pueden copiarse ni utilizarse sin autorización.
+
+## Impuestos
+
+Cada usuario es responsable de determinar, declarar y pagar los impuestos que correspondan a su actividad (por ejemplo, IVA o impuesto a la renta sobre los ingresos del Anfitrión). Atrio no entrega asesoría tributaria ni retiene impuestos por ti, salvo que la ley lo exija. Te recomendamos consultar a un profesional.
+
+## Limitación de Responsabilidad e Indemnización
+
+Atrio entrega la Plataforma "tal cual" y, en la máxima medida permitida por la ley, no garantiza la calidad, seguridad ni legalidad de las publicaciones ni la conducta de los usuarios. Atrio no será responsable por daños indirectos o lucro cesante derivados del uso de la Plataforma o de la relación entre Huésped y Anfitrión. Nada en estos términos limita los derechos irrenunciables que la ley chilena otorga a los consumidores. Aceptas mantener indemne a Atrio frente a reclamos de terceros que deriven de tu incumplimiento de estos términos, de la ley o de los derechos de otras personas.
+
+## Suspensión y Cierre de Cuentas
+
+Puedes cerrar tu cuenta cuando quieras desde la app. Atrio puede suspender o cancelar cuentas que incumplan estos términos o la ley, o que representen un riesgo de fraude o seguridad, avisando cuando sea razonablemente posible. Las reservas en curso se resolverán conforme a la política de cancelación aplicable y a la ley.
+
+## Protección al Consumidor, Ley Aplicable y Cambios
+
+Estos términos se rigen por las leyes de la República de Chile, incluida la Ley N° 19.496 sobre Protección de los Derechos de los Consumidores. Cualquier controversia podrá someterse a los tribunales competentes de Santiago, Chile, sin perjuicio del derecho del consumidor a recurrir al SERNAC o a su juez natural. Atrio puede actualizar estos términos; los cambios relevantes se comunicarán dentro de la app o por correo con razonable anticipación, y el uso continuado de la Plataforma implica su aceptación.
+
+## Contacto
+
+¿Tienes dudas sobre estos términos? Escríbenos:
+
+• Correo: contacto@atriocompany.cloud
+
+• Centro de Ayuda dentro de la app
+
+Atrio Company SpA — Santiago, Chile.
