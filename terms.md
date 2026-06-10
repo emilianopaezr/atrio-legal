@@ -1,6 +1,6 @@
 # Términos y Condiciones de Uso — Atrio
 
-**Última actualización: 3 de junio de 2026**
+**Última actualización: 9 de junio de 2026**
 
 Estos términos regulan la relación entre tú y Atrio Company SpA cuando usas la app como anfitrión o como huésped: cómo funcionan las publicaciones, las reservas, los pagos a través de Mercado Pago, las comisiones de servicio, las cancelaciones y tus derechos como consumidor en Chile. Léelos con calma antes de reservar o publicar.
 
@@ -52,7 +52,7 @@ Los precios son fijados por cada Anfitrión en pesos chilenos (CLP). Los pagos s
 
 ## Pagos y Desembolsos a Anfitriones
 
-El pago del Huésped se procesa al confirmar la reserva. El desembolso al Anfitrión se realiza a través de Mercado Pago, a la cuenta que haya vinculado, conforme a los plazos y condiciones de dicho proveedor y, cuando corresponda, una vez transcurrido el período de protección de la reserva. El Anfitrión es responsable de mantener correctos sus datos de cobro. Atrio puede retener o revertir pagos en casos de fraude, contracargo, disputa o incumplimiento.
+El pago del Huésped se procesa al confirmar la reserva. **Pago protegido:** el dinero queda retenido por Mercado Pago y **no se libera al Anfitrión de inmediato**; se libera a la cuenta de Mercado Pago que el Anfitrión vinculó después del check-out o de la prestación del servicio, conforme a los plazos de liberación de dicho proveedor. Atrio no custodia ni administra fondos de terceros: la retención y liberación la ejecuta Mercado Pago. Mientras los fondos estén retenidos, si la reserva es rechazada, cancelada conforme a su política o anulada por motivos de seguridad o fraude, el reembolso al Huésped se emite de forma automática al método de pago original. El Anfitrión es responsable de mantener correctos sus datos de cobro. Atrio puede ordenar la retención, el reembolso o la reversión de pagos en casos de fraude, contracargo, disputa o incumplimiento.
 
 ## Cancelaciones y Reembolsos
 
@@ -64,7 +64,7 @@ Cada publicación tiene una política de cancelación elegida por el Anfitrión:
 
 • Estricta: 50% de reembolso hasta 7 días antes; sin reembolso después.
 
-La comisión de servicio se reembolsa cuando la cancelación da derecho a reembolso total. Los reembolsos se procesan por el mismo medio de pago, normalmente dentro de 5 a 10 días hábiles según Mercado Pago. Si un Anfitrión cancela una reserva confirmada, el Huésped recibe un reembolso completo y Atrio puede aplicar sanciones al Anfitrión. Todo lo anterior es sin perjuicio de los derechos que la Ley N° 19.496 otorga a los consumidores.
+La comisión de servicio se reembolsa cuando la cancelación da derecho a reembolso total. Los reembolsos se procesan por el mismo medio de pago, normalmente dentro de 5 a 10 días hábiles según Mercado Pago. Si un Anfitrión rechaza o cancela una reserva pagada, el Huésped recibe un **reembolso completo automático** mientras los fondos permanezcan retenidos por Mercado Pago, y Atrio puede aplicar sanciones al Anfitrión. En caso de disputa entre Huésped y Anfitrión, Atrio puede revisar el caso (incluyendo denuncias y evidencia del chat) y, mientras los fondos estén retenidos, ordenar el reembolso o la liberación según el resultado de la revisión. Todo lo anterior es sin perjuicio de los derechos que la Ley N° 19.496 otorga a los consumidores.
 
 ## Conducta y Responsabilidad del Usuario
 
