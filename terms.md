@@ -48,7 +48,7 @@ Cuando un Huésped confirma y paga una reserva, se forma un contrato directo con
 
 ## Precios, Comisiones de Servicio y Pagos
 
-Los precios son fijados por cada Anfitrión en pesos chilenos (CLP). Los pagos se procesan a través de Mercado Pago; al pagar aceptas también las condiciones de ese proveedor. Atrio cobra una comisión de servicio al Huésped, que se suma al precio del Anfitrión y se muestra de forma transparente antes de confirmar: 5% en tus primeras 5 reservas y 9% en adelante, con un mínimo de $1.490 CLP por reserva. El Anfitrión no paga comisión: recibe el 100% del precio que publicó. Atrio puede modificar las comisiones avisando con anticipación; los cambios no afectan reservas ya confirmadas.
+Los precios son fijados por cada Anfitrión en pesos chilenos (CLP). Los pagos se procesan a través de Mercado Pago; al pagar aceptas también las condiciones de ese proveedor. Atrio cobra una comisión de servicio al Huésped, que se suma al precio del Anfitrión y se muestra de forma transparente antes de confirmar: 5% en tu primera reserva y 9% en adelante, con un mínimo de $1.490 CLP por reserva. El Anfitrión no paga comisión: recibe el 100% del precio que publicó. Atrio puede modificar las comisiones avisando con anticipación; los cambios no afectan reservas ya confirmadas.
 
 ## Pagos y Desembolsos a Anfitriones
 
